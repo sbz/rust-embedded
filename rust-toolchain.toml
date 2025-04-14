@@ -1,0 +1,4 @@
+[toolchain]
+channel = "stable"
+components = ["rust-src", "rustfmt", "rust-std" ]
+targets = ["armv7-unknown-linux-gnueabi"]
